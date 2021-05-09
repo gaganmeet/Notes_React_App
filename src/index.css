@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #f7fff7;
 }
 
 code {
@@ -99,7 +100,7 @@ textarea:focus {
 }
 
 .dark-mode {
-  background-color: black;
+  background-color: #181a1b;
 }
 .dark-mode h1 {
   color: white;
